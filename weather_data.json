@@ -1,0 +1,7262 @@
+[
+  {
+    "city": "Alor Gajah",
+    "wd": {
+      "coord": {
+        "lon": 102.2089,
+        "lat": 2.3804
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.46,
+        "feels_like": 37.46,
+        "temp_min": 30.46,
+        "temp_max": 30.46,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.71,
+        "deg": 292,
+        "gust": 2.5
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719807140,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788832,
+        "sunset": 1719832953
+      },
+      "timezone": 28800,
+      "id": 1734745,
+      "name": "Alor Gajah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Alor Setar",
+    "wd": {
+      "coord": {
+        "lon": 100.3601,
+        "lat": 6.121
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.43,
+        "feels_like": 26.35,
+        "temp_min": 25.43,
+        "temp_max": 25.43,
+        "pressure": 1011,
+        "humidity": 89,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.7,
+        "deg": 87,
+        "gust": 3.84
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807142,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788889,
+        "sunset": 1719833784
+      },
+      "timezone": 28800,
+      "id": 1736309,
+      "name": "Alor Star",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Ampang",
+    "wd": {
+      "coord": {
+        "lon": 101.768,
+        "lat": 3.1498
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.72,
+        "feels_like": 37.72,
+        "temp_min": 29.77,
+        "temp_max": 30.73,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 1005
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.41,
+        "deg": 290,
+        "gust": 2.25
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719806920,
+      "sys": {
+        "type": 2,
+        "id": 2089667,
+        "country": "MY",
+        "sunrise": 1719788859,
+        "sunset": 1719833138
+      },
+      "timezone": 28800,
+      "id": 1733046,
+      "name": "Ampang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bagan Serai",
+    "wd": {
+      "coord": {
+        "lon": 100.541,
+        "lat": 5.0108
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.01,
+        "feels_like": 38.01,
+        "temp_min": 31.01,
+        "temp_max": 31.01,
+        "pressure": 1010,
+        "humidity": 81,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.18,
+        "deg": 86,
+        "gust": 2.35
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807022,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788961,
+        "sunset": 1719833625
+      },
+      "timezone": 28800,
+      "id": 1734409,
+      "name": "Bagan Serai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bahau",
+    "wd": {
+      "coord": {
+        "lon": 102.4049,
+        "lat": 2.8079
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 32.39,
+        "feels_like": 39.39,
+        "temp_min": 32.39,
+        "temp_max": 32.39,
+        "pressure": 1011,
+        "humidity": 75,
+        "sea_level": 1011,
+        "grnd_level": 1003
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.78,
+        "deg": 352,
+        "gust": 1.6
+      },
+      "clouds": {
+        "all": 86
+      },
+      "dt": 1719807154,
+      "sys": {
+        "type": 2,
+        "id": 2079042,
+        "country": "MY",
+        "sunrise": 1719788741,
+        "sunset": 1719832950
+      },
+      "timezone": 28800,
+      "id": 1734839,
+      "name": "Bahau",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bakri",
+    "wd": {
+      "coord": {
+        "lon": 102.6527,
+        "lat": 2.0441
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.56,
+        "feels_like": 37.56,
+        "temp_min": 30.56,
+        "temp_max": 30.56,
+        "pressure": 1010,
+        "humidity": 79,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.66,
+        "deg": 256,
+        "gust": 2.39
+      },
+      "clouds": {
+        "all": 87
+      },
+      "dt": 1719807020,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788760,
+        "sunset": 1719832812
+      },
+      "timezone": 28800,
+      "id": 1732871,
+      "name": "Bakri",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bandar Labuan",
+    "wd": {
+      "coord": {
+        "lon": 115.2692,
+        "lat": 5.2888
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.35,
+        "feels_like": 26.37,
+        "temp_min": 25.35,
+        "temp_max": 25.35,
+        "pressure": 1010,
+        "humidity": 93,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 3251,
+      "wind": {
+        "speed": 6.38,
+        "deg": 276,
+        "gust": 7.01
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807158,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785397,
+        "sunset": 1719830119
+      },
+      "timezone": 28800,
+      "id": 7302815,
+      "name": "Bandar Labuan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Banting",
+    "wd": {
+      "coord": {
+        "lon": 101.5,
+        "lat": 2.8167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.07,
+        "feels_like": 35.71,
+        "temp_min": 30.07,
+        "temp_max": 31.03,
+        "pressure": 1011,
+        "humidity": 72,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.74,
+        "deg": 324,
+        "gust": 2.81
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719806895,
+      "sys": {
+        "type": 1,
+        "id": 9427,
+        "country": "MY",
+        "sunrise": 1719788957,
+        "sunset": 1719833168
+      },
+      "timezone": 28800,
+      "id": 1734781,
+      "name": "Banting",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Batang Berjuntai",
+    "wd": {
+      "coord": {
+        "lon": 101.4167,
+        "lat": 3.3833
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.87,
+        "feels_like": 37.85,
+        "temp_min": 30.8,
+        "temp_max": 30.97,
+        "pressure": 1010,
+        "humidity": 72,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.39,
+        "deg": 277,
+        "gust": 1.36
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807162,
+      "sys": {
+        "type": 2,
+        "id": 2085368,
+        "country": "MY",
+        "sunrise": 1719788919,
+        "sunset": 1719833247
+      },
+      "timezone": 28800,
+      "id": 1732892,
+      "name": "Batang Berjuntai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Batu Arang",
+    "wd": {
+      "coord": {
+        "lon": 101.4667,
+        "lat": 3.3167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.63,
+        "feels_like": 37.63,
+        "temp_min": 30.53,
+        "temp_max": 30.7,
+        "pressure": 1010,
+        "humidity": 78,
+        "sea_level": 1010,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.35,
+        "deg": 264,
+        "gust": 1.1
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807164,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788914,
+        "sunset": 1719833228
+      },
+      "timezone": 28800,
+      "id": 1732893,
+      "name": "Batu Arang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Batu Berendam",
+    "wd": {
+      "coord": {
+        "lon": 102.246,
+        "lat": 2.2487
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.59,
+        "feels_like": 37.59,
+        "temp_min": 30.59,
+        "temp_max": 30.59,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.34,
+        "deg": 117,
+        "gust": 2.24
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719807167,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788837,
+        "sunset": 1719832931
+      },
+      "timezone": 28800,
+      "id": 1780890,
+      "name": "Batu Berendam",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Batu Gajah",
+    "wd": {
+      "coord": {
+        "lon": 101.0411,
+        "lat": 4.4692
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.32,
+        "feels_like": 38.32,
+        "temp_min": 31.32,
+        "temp_max": 31.32,
+        "pressure": 1010,
+        "humidity": 70,
+        "sea_level": 1010,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.46,
+        "deg": 4,
+        "gust": 3.59
+      },
+      "rain": {
+        "1h": 0.36
+      },
+      "clouds": {
+        "all": 96
+      },
+      "dt": 1719806914,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788897,
+        "sunset": 1719833449
+      },
+      "timezone": 28800,
+      "id": 1735268,
+      "name": "Batu Gajah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Batu Pahat",
+    "wd": {
+      "coord": {
+        "lon": 102.9325,
+        "lat": 1.8548
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.09,
+        "feels_like": 31.7,
+        "temp_min": 28.09,
+        "temp_max": 28.09,
+        "pressure": 1010,
+        "humidity": 76,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.23,
+        "deg": 244,
+        "gust": 1.86
+      },
+      "clouds": {
+        "all": 87
+      },
+      "dt": 1719807173,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788712,
+        "sunset": 1719832726
+      },
+      "timezone": 28800,
+      "id": 1732687,
+      "name": "Batu Pahat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Beaufort",
+    "wd": {
+      "coord": {
+        "lon": 115.7455,
+        "lat": 5.3473
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.72,
+        "feels_like": 26.85,
+        "temp_min": 25.72,
+        "temp_max": 25.72,
+        "pressure": 1011,
+        "humidity": 96,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 7797,
+      "wind": {
+        "speed": 2.23,
+        "deg": 232,
+        "gust": 4.67
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807176,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785277,
+        "sunset": 1719830010
+      },
+      "timezone": 28800,
+      "id": 1733874,
+      "name": "Beaufort",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bedong",
+    "wd": {
+      "coord": {
+        "lon": 100.5088,
+        "lat": 5.7274
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.1,
+        "feels_like": 26.04,
+        "temp_min": 25.1,
+        "temp_max": 25.1,
+        "pressure": 1011,
+        "humidity": 91,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.52,
+        "deg": 65,
+        "gust": 3.11
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807178,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788894,
+        "sunset": 1719833707
+      },
+      "timezone": 28800,
+      "id": 1734439,
+      "name": "Bedong",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bemban",
+    "wd": {
+      "coord": {
+        "lon": 102.3746,
+        "lat": 2.2684
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.45,
+        "feels_like": 37.45,
+        "temp_min": 30.45,
+        "temp_max": 30.45,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.83,
+        "deg": 283,
+        "gust": 2.65
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807180,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788804,
+        "sunset": 1719832902
+      },
+      "timezone": 28800,
+      "id": 1779926,
+      "name": "Bemban",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bentong Town",
+    "wd": {
+      "coord": {
+        "lon": 101.9,
+        "lat": 3.5167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.85,
+        "feels_like": 36.85,
+        "temp_min": 29.85,
+        "temp_max": 30.01,
+        "pressure": 1012,
+        "humidity": 80,
+        "sea_level": 1012,
+        "grnd_level": 993
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.68,
+        "deg": 17,
+        "gust": 1.36
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807182,
+      "sys": {
+        "type": 2,
+        "id": 2085368,
+        "country": "MY",
+        "sunrise": 1719788789,
+        "sunset": 1719833144
+      },
+      "timezone": 28800,
+      "id": 1779790,
+      "name": "Bentong Town",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bidur",
+    "wd": {
+      "coord": {
+        "lon": 101.2833,
+        "lat": 4.1167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31,
+        "feels_like": 35.35,
+        "temp_min": 31,
+        "temp_max": 31,
+        "pressure": 1010,
+        "humidity": 62,
+        "sea_level": 1010,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.28,
+        "deg": 269,
+        "gust": 1.32
+      },
+      "clouds": {
+        "all": 88
+      },
+      "dt": 1719806789,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788875,
+        "sunset": 1719833354
+      },
+      "timezone": 28800,
+      "id": 1735287,
+      "name": "Bidur",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bintulu",
+    "wd": {
+      "coord": {
+        "lon": 113.0333,
+        "lat": 3.1667
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.25,
+        "feels_like": 25.21,
+        "temp_min": 24.25,
+        "temp_max": 24.25,
+        "pressure": 1011,
+        "humidity": 95,
+        "sea_level": 1011,
+        "grnd_level": 1011
+      },
+      "visibility": 7741,
+      "wind": {
+        "speed": 1.73,
+        "deg": 181,
+        "gust": 2.04
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719806697,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719786153,
+        "sunset": 1719830436
+      },
+      "timezone": 28800,
+      "id": 1737486,
+      "name": "Bintulu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bukit Mertajam",
+    "wd": {
+      "coord": {
+        "lon": 100.4667,
+        "lat": 5.363
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.86,
+        "feels_like": 37.86,
+        "temp_min": 30.86,
+        "temp_max": 30.86,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.95,
+        "deg": 56,
+        "gust": 2.93
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807102,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788942,
+        "sunset": 1719833679
+      },
+      "timezone": 28800,
+      "id": 1735079,
+      "name": "Bukit Mertajam",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Bukit Rambai",
+    "wd": {
+      "coord": {
+        "lon": 102.1838,
+        "lat": 2.2594
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.53,
+        "feels_like": 37.53,
+        "temp_min": 30.53,
+        "temp_max": 30.53,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.84,
+        "deg": 298,
+        "gust": 3.44
+      },
+      "clouds": {
+        "all": 90
+      },
+      "dt": 1719807191,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788850,
+        "sunset": 1719832947
+      },
+      "timezone": 28800,
+      "id": 1778290,
+      "name": "Bukit Rambai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Buloh Kasap",
+    "wd": {
+      "coord": {
+        "lon": 102.764,
+        "lat": 2.5536
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 32.71,
+        "feels_like": 39.71,
+        "temp_min": 32.71,
+        "temp_max": 32.71,
+        "pressure": 1011,
+        "humidity": 74,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.32,
+        "deg": 319,
+        "gust": 1.78
+      },
+      "rain": {
+        "1h": 0.41
+      },
+      "clouds": {
+        "all": 92
+      },
+      "dt": 1719807194,
+      "sys": {
+        "type": 2,
+        "id": 2079042,
+        "country": "MY",
+        "sunrise": 1719788681,
+        "sunset": 1719832838
+      },
+      "timezone": 28800,
+      "id": 1734879,
+      "name": "Buloh Kasap",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Butterworth",
+    "wd": {
+      "coord": {
+        "lon": 100.3638,
+        "lat": 5.3991
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.02,
+        "feels_like": 36.48,
+        "temp_min": 31.02,
+        "temp_max": 31.02,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 120
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807196,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788963,
+        "sunset": 1719833708
+      },
+      "timezone": 28800,
+      "id": 1735076,
+      "name": "Butterworth",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Chaah",
+    "wd": {
+      "coord": {
+        "lon": 103.048,
+        "lat": 2.249
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.33,
+        "feels_like": 32.43,
+        "temp_min": 28.33,
+        "temp_max": 28.33,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 8841,
+      "wind": {
+        "speed": 0.87,
+        "deg": 269,
+        "gust": 1.74
+      },
+      "clouds": {
+        "all": 88
+      },
+      "dt": 1719807034,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788644,
+        "sunset": 1719832738
+      },
+      "timezone": 28800,
+      "id": 1732884,
+      "name": "Chaah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Cukai",
+    "wd": {
+      "coord": {
+        "lon": 103.4167,
+        "lat": 4.25
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.7,
+        "feels_like": 32.25,
+        "temp_min": 28.7,
+        "temp_max": 28.7,
+        "pressure": 1011,
+        "humidity": 71,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.29,
+        "deg": 327,
+        "gust": 3.09
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807199,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788350,
+        "sunset": 1719832856
+      },
+      "timezone": 28800,
+      "id": 1732945,
+      "name": "Cukai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Donggongon",
+    "wd": {
+      "coord": {
+        "lon": 116.1015,
+        "lat": 5.907
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.96,
+        "feels_like": 35.93,
+        "temp_min": 29.96,
+        "temp_max": 29.96,
+        "pressure": 1010,
+        "humidity": 74,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.09,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807224,
+      "sys": {
+        "type": 1,
+        "id": 9371,
+        "country": "MY",
+        "sunrise": 1719785133,
+        "sunset": 1719829983
+      },
+      "timezone": 28800,
+      "id": 1733438,
+      "name": "Donggongon",
+      "cod": 200
+    }
+  },
+  {
+    "city": "George Town",
+    "wd": {
+      "coord": {
+        "lon": 100.3354,
+        "lat": 5.4112
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.96,
+        "feels_like": 36.34,
+        "temp_min": 30.96,
+        "temp_max": 30.96,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 120
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719806810,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788969,
+        "sunset": 1719833716
+      },
+      "timezone": 28800,
+      "id": 1735106,
+      "name": "George Town",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Gua Musang",
+    "wd": {
+      "coord": {
+        "lon": 101.9644,
+        "lat": 4.8823
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.16,
+        "feels_like": 24.98,
+        "temp_min": 24.16,
+        "temp_max": 24.16,
+        "pressure": 1012,
+        "humidity": 90,
+        "sea_level": 1012,
+        "grnd_level": 1002
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.21,
+        "deg": 53,
+        "gust": 2.1
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807227,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788633,
+        "sunset": 1719833270
+      },
+      "timezone": 28800,
+      "id": 1734651,
+      "name": "Gua Musang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Gurun",
+    "wd": {
+      "coord": {
+        "lon": 100.4738,
+        "lat": 5.8172
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.05,
+        "feels_like": 25.99,
+        "temp_min": 25.05,
+        "temp_max": 25.05,
+        "pressure": 1011,
+        "humidity": 91,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.81,
+        "deg": 80,
+        "gust": 3.31
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807007,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788893,
+        "sunset": 1719833725
+      },
+      "timezone": 28800,
+      "id": 1735485,
+      "name": "Gurun",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Ipoh",
+    "wd": {
+      "coord": {
+        "lon": 101.0829,
+        "lat": 4.5841
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.22,
+        "feels_like": 35.32,
+        "temp_min": 31.22,
+        "temp_max": 31.22,
+        "pressure": 1011,
+        "humidity": 60,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.97,
+        "deg": 5,
+        "gust": 2.95
+      },
+      "rain": {
+        "1h": 0.41
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719806957,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788875,
+        "sunset": 1719833451
+      },
+      "timezone": 28800,
+      "id": 1734634,
+      "name": "Ipoh",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Jenjarum",
+    "wd": {
+      "coord": {
+        "lon": 101.5,
+        "lat": 2.8833
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.03,
+        "feels_like": 36.38,
+        "temp_min": 30.03,
+        "temp_max": 30.98,
+        "pressure": 1011,
+        "humidity": 75,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.73,
+        "deg": 326,
+        "gust": 2.71
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807233,
+      "sys": {
+        "type": 1,
+        "id": 9427,
+        "country": "MY",
+        "sunrise": 1719788950,
+        "sunset": 1719833175
+      },
+      "timezone": 28800,
+      "id": 1734793,
+      "name": "Jenjarum",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Jerantut",
+    "wd": {
+      "coord": {
+        "lon": 102.3626,
+        "lat": 3.936
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.82,
+        "feels_like": 26.76,
+        "temp_min": 25.82,
+        "temp_max": 25.82,
+        "pressure": 1011,
+        "humidity": 88,
+        "sea_level": 1011,
+        "grnd_level": 1003
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.06,
+        "deg": 323,
+        "gust": 2.8
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807235,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788635,
+        "sunset": 1719833077
+      },
+      "timezone": 28800,
+      "id": 1732602,
+      "name": "Jerantut",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Jertih",
+    "wd": {
+      "coord": {
+        "lon": 102.4897,
+        "lat": 5.7336
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.31,
+        "feels_like": 25.15,
+        "temp_min": 24.31,
+        "temp_max": 24.31,
+        "pressure": 1012,
+        "humidity": 90,
+        "sea_level": 1012,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.81,
+        "deg": 238,
+        "gust": 2.52
+      },
+      "rain": {
+        "1h": 0.24
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807013,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788418,
+        "sunset": 1719833232
+      },
+      "timezone": 28800,
+      "id": 1736405,
+      "name": "Jertih",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Jitra",
+    "wd": {
+      "coord": {
+        "lon": 100.4217,
+        "lat": 6.2681
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.82,
+        "feels_like": 25.81,
+        "temp_min": 24.82,
+        "temp_max": 24.82,
+        "pressure": 1011,
+        "humidity": 94,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.52,
+        "deg": 86,
+        "gust": 3.18
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807239,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788859,
+        "sunset": 1719833784
+      },
+      "timezone": 28800,
+      "id": 1736302,
+      "name": "Jitra",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Johor Bahru",
+    "wd": {
+      "coord": {
+        "lon": 103.7578,
+        "lat": 1.4655
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30,
+        "feels_like": 36.83,
+        "temp_min": 29.45,
+        "temp_max": 30.9,
+        "pressure": 1010,
+        "humidity": 77,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 30
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1719806983,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788554,
+        "sunset": 1719832488
+      },
+      "timezone": 28800,
+      "id": 1732752,
+      "name": "Johor Bahru",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Juru",
+    "wd": {
+      "coord": {
+        "lon": 100.4423,
+        "lat": 5.312
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.97,
+        "feels_like": 36.36,
+        "temp_min": 30.97,
+        "temp_max": 30.97,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 120
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807037,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788954,
+        "sunset": 1719833680
+      },
+      "timezone": 28800,
+      "id": 1772148,
+      "name": "Juru",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampar",
+    "wd": {
+      "coord": {
+        "lon": 101.15,
+        "lat": 4.3
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.35,
+        "feels_like": 37.61,
+        "temp_min": 31.35,
+        "temp_max": 31.35,
+        "pressure": 1010,
+        "humidity": 67,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.25,
+        "deg": 314,
+        "gust": 2.28
+      },
+      "rain": {
+        "1h": 0.26
+      },
+      "clouds": {
+        "all": 88
+      },
+      "dt": 1719807245,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788888,
+        "sunset": 1719833405
+      },
+      "timezone": 28800,
+      "id": 1735274,
+      "name": "Kampar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampong Baharu Balakong",
+    "wd": {
+      "coord": {
+        "lon": 101.75,
+        "lat": 3.0333
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.52,
+        "feels_like": 35.54,
+        "temp_min": 29.73,
+        "temp_max": 30.69,
+        "pressure": 1011,
+        "humidity": 67,
+        "sea_level": 1011,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.75,
+        "deg": 286,
+        "gust": 2.55
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807030,
+      "sys": {
+        "type": 2,
+        "id": 2089667,
+        "country": "MY",
+        "sunrise": 1719788875,
+        "sunset": 1719833131
+      },
+      "timezone": 28800,
+      "id": 1771304,
+      "name": "Kampong Baharu Balakong",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampong Dungun",
+    "wd": {
+      "coord": {
+        "lon": 101.3167,
+        "lat": 3.2167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.04,
+        "feels_like": 38.04,
+        "temp_min": 30.87,
+        "temp_max": 31.04,
+        "pressure": 1010,
+        "humidity": 78,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.81,
+        "deg": 346,
+        "gust": 1.69
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807030,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788960,
+        "sunset": 1719833254
+      },
+      "timezone": 28800,
+      "id": 1769612,
+      "name": "Kampong Dungun",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampong Kadok",
+    "wd": {
+      "coord": {
+        "lon": 102.25,
+        "lat": 6
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25,
+        "feels_like": 25.85,
+        "temp_min": 25,
+        "temp_max": 25,
+        "pressure": 1012,
+        "humidity": 88,
+        "sea_level": 1012,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.04,
+        "deg": 229,
+        "gust": 1.52
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807030,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788448,
+        "sunset": 1719833318
+      },
+      "timezone": 28800,
+      "id": 1768664,
+      "name": "Kampong Kadok",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampong Masjid Tanah",
+    "wd": {
+      "coord": {
+        "lon": 102.1167,
+        "lat": 2.35
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.49,
+        "feels_like": 37.49,
+        "temp_min": 30.49,
+        "temp_max": 30.49,
+        "pressure": 1011,
+        "humidity": 78,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.51,
+        "deg": 299,
+        "gust": 3.17
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807252,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788857,
+        "sunset": 1719832972
+      },
+      "timezone": 28800,
+      "id": 1767021,
+      "name": "Kampong Masjid Tanah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampong Pangkal Kalong",
+    "wd": {
+      "coord": {
+        "lon": 102.2167,
+        "lat": 5.9167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.45,
+        "feels_like": 25.3,
+        "temp_min": 24.45,
+        "temp_max": 24.45,
+        "pressure": 1012,
+        "humidity": 90,
+        "sea_level": 1012,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.85,
+        "deg": 218,
+        "gust": 1.47
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807254,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788465,
+        "sunset": 1719833317
+      },
+      "timezone": 28800,
+      "id": 1766249,
+      "name": "Kampong Pangkal Kalong",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Ayer Keroh",
+    "wd": {
+      "coord": {
+        "lon": 102.2801,
+        "lat": 2.2654
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.54,
+        "feels_like": 37.54,
+        "temp_min": 30.54,
+        "temp_max": 30.54,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.34,
+        "deg": 117,
+        "gust": 2.24
+      },
+      "clouds": {
+        "all": 96
+      },
+      "dt": 1719807256,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788827,
+        "sunset": 1719832925
+      },
+      "timezone": 28800,
+      "id": 1734753,
+      "name": "Kampung Ayer Keroh",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Ayer Molek",
+    "wd": {
+      "coord": {
+        "lon": 102.3278,
+        "lat": 2.2139
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.46,
+        "feels_like": 37.46,
+        "temp_min": 30.46,
+        "temp_max": 30.46,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.34,
+        "deg": 117,
+        "gust": 2.24
+      },
+      "clouds": {
+        "all": 96
+      },
+      "dt": 1719807259,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788821,
+        "sunset": 1719832908
+      },
+      "timezone": 28800,
+      "id": 1771485,
+      "name": "Kampung Ayer Molek",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Baharu Nilai",
+    "wd": {
+      "coord": {
+        "lon": 101.7972,
+        "lat": 2.8033
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.92,
+        "feels_like": 34.84,
+        "temp_min": 29.92,
+        "temp_max": 30.88,
+        "pressure": 1011,
+        "humidity": 70,
+        "sea_level": 1011,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807030,
+      "sys": {
+        "type": 2,
+        "id": 131486,
+        "country": "MY",
+        "sunrise": 1719788887,
+        "sunset": 1719833096
+      },
+      "timezone": 28800,
+      "id": 1771287,
+      "name": "Kampung Baharu Nilai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Baru Subang",
+    "wd": {
+      "coord": {
+        "lon": 101.5333,
+        "lat": 3.15
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.9,
+        "feels_like": 37.9,
+        "temp_min": 29.97,
+        "temp_max": 30.92,
+        "pressure": 1011,
+        "humidity": 100,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.91,
+        "deg": 309,
+        "gust": 1.66
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719807010,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788915,
+        "sunset": 1719833195
+      },
+      "timezone": 28800,
+      "id": 1771023,
+      "name": "Kampung Baru Subang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Bukit Baharu",
+    "wd": {
+      "coord": {
+        "lon": 102.2851,
+        "lat": 2.2152
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.58,
+        "feels_like": 37.58,
+        "temp_min": 30.58,
+        "temp_max": 30.58,
+        "pressure": 1010,
+        "humidity": 83,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.34,
+        "deg": 117,
+        "gust": 2.24
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719806968,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788831,
+        "sunset": 1719832918
+      },
+      "timezone": 28800,
+      "id": 1770351,
+      "name": "Kampung Bukit Baharu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Pasir Gudang Baru",
+    "wd": {
+      "coord": {
+        "lon": 103.878,
+        "lat": 1.4726
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.21,
+        "feels_like": 36.88,
+        "temp_min": 29.08,
+        "temp_max": 30.98,
+        "pressure": 1010,
+        "humidity": 75,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.06,
+        "deg": 340
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1719807278,
+      "sys": {
+        "type": 1,
+        "id": 9479,
+        "country": "MY",
+        "sunrise": 1719788525,
+        "sunset": 1719832460
+      },
+      "timezone": 28800,
+      "id": 1732721,
+      "name": "Kampung Pasir Gudang Baru",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Simpang Renggam",
+    "wd": {
+      "coord": {
+        "lon": 103.3,
+        "lat": 1.8278
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.05,
+        "feels_like": 31.61,
+        "temp_min": 28.05,
+        "temp_max": 28.05,
+        "pressure": 1011,
+        "humidity": 76,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.86,
+        "deg": 257,
+        "gust": 1.56
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807280,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788627,
+        "sunset": 1719832635
+      },
+      "timezone": 28800,
+      "id": 1764318,
+      "name": "Kampung Simpang Renggam",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Sungai Ara",
+    "wd": {
+      "coord": {
+        "lon": 100.2735,
+        "lat": 5.327
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.95,
+        "feels_like": 36.31,
+        "temp_min": 30.95,
+        "temp_max": 30.95,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 120
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807282,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788992,
+        "sunset": 1719833722
+      },
+      "timezone": 28800,
+      "id": 1764160,
+      "name": "Kampung Sungai Ara",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Tanjung Karang",
+    "wd": {
+      "coord": {
+        "lon": 101.1849,
+        "lat": 3.4242
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.97,
+        "feels_like": 34.04,
+        "temp_min": 29.97,
+        "temp_max": 29.97,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.23,
+        "deg": 333,
+        "gust": 2.15
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807284,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788970,
+        "sunset": 1719833307
+      },
+      "timezone": 28800,
+      "id": 1763412,
+      "name": "Kampung Tanjung Karang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kampung Tekek",
+    "wd": {
+      "coord": {
+        "lon": 104.1592,
+        "lat": 2.8147
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.31,
+        "feels_like": 30.44,
+        "temp_min": 27.31,
+        "temp_max": 27.31,
+        "pressure": 1010,
+        "humidity": 80,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 5.54,
+        "deg": 312,
+        "gust": 5.72
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807286,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788319,
+        "sunset": 1719832530
+      },
+      "timezone": 28800,
+      "id": 1734949,
+      "name": "Kampung Tekek",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kangar",
+    "wd": {
+      "coord": {
+        "lon": 100.1986,
+        "lat": 6.4414
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.5,
+        "feels_like": 26.46,
+        "temp_min": 25.5,
+        "temp_max": 25.5,
+        "pressure": 1011,
+        "humidity": 90,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.84,
+        "deg": 86,
+        "gust": 1.13
+      },
+      "rain": {
+        "1h": 0.16
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807132,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788895,
+        "sunset": 1719833856
+      },
+      "timezone": 28800,
+      "id": 1736278,
+      "name": "Kangar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kapit",
+    "wd": {
+      "coord": {
+        "lon": 112.9333,
+        "lat": 2.0167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.26,
+        "feels_like": 25.27,
+        "temp_min": 24.26,
+        "temp_max": 24.26,
+        "pressure": 1011,
+        "humidity": 97,
+        "sea_level": 1011,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.97,
+        "deg": 79,
+        "gust": 2.01
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807290,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719786295,
+        "sunset": 1719830342
+      },
+      "timezone": 28800,
+      "id": 1737185,
+      "name": "Kapit",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kelapa Sawit",
+    "wd": {
+      "coord": {
+        "lon": 103.5327,
+        "lat": 1.6698
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.98,
+        "feels_like": 34.99,
+        "temp_min": 29.45,
+        "temp_max": 29.99,
+        "pressure": 1010,
+        "humidity": 70,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.75,
+        "deg": 259,
+        "gust": 2.04
+      },
+      "clouds": {
+        "all": 92
+      },
+      "dt": 1719807292,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788587,
+        "sunset": 1719832563
+      },
+      "timezone": 28800,
+      "id": 1761293,
+      "name": "Kelapa Sawit",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Keningau",
+    "wd": {
+      "coord": {
+        "lon": 116.1602,
+        "lat": 5.3378
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.17,
+        "feels_like": 26.17,
+        "temp_min": 26.17,
+        "temp_max": 26.17,
+        "pressure": 1010,
+        "humidity": 93,
+        "sea_level": 1010,
+        "grnd_level": 979
+      },
+      "visibility": 9761,
+      "wind": {
+        "speed": 1.87,
+        "deg": 284,
+        "gust": 2.65
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807294,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785178,
+        "sunset": 1719829910
+      },
+      "timezone": 28800,
+      "id": 1734098,
+      "name": "Keningau",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kepala Batas",
+    "wd": {
+      "coord": {
+        "lon": 100.4265,
+        "lat": 5.5171
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.97,
+        "feels_like": 37.97,
+        "temp_min": 30.97,
+        "temp_max": 30.97,
+        "pressure": 1010,
+        "humidity": 85,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.55,
+        "deg": 58,
+        "gust": 3.97
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807296,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788936,
+        "sunset": 1719833705
+      },
+      "timezone": 28800,
+      "id": 1735506,
+      "name": "Kepala Batas",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kertih",
+    "wd": {
+      "coord": {
+        "lon": 103.4483,
+        "lat": 4.5141
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.72,
+        "feels_like": 30.75,
+        "temp_min": 27.72,
+        "temp_max": 27.72,
+        "pressure": 1011,
+        "humidity": 75,
+        "sea_level": 1011,
+        "grnd_level": 1011
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.66,
+        "deg": 322,
+        "gust": 4.98
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807298,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788315,
+        "sunset": 1719832876
+      },
+      "timezone": 28800,
+      "id": 1734316,
+      "name": "Kertih",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kinarut",
+    "wd": {
+      "coord": {
+        "lon": 116.0466,
+        "lat": 5.8231
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.01,
+        "feels_like": 36.07,
+        "temp_min": 30.01,
+        "temp_max": 30.01,
+        "pressure": 1011,
+        "humidity": 74,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.09,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807300,
+      "sys": {
+        "type": 1,
+        "id": 9371,
+        "country": "MY",
+        "sunrise": 1719785155,
+        "sunset": 1719829988
+      },
+      "timezone": 28800,
+      "id": 1733449,
+      "name": "Kinarut",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Klang",
+    "wd": {
+      "coord": {
+        "lon": 101.45,
+        "lat": 3.0333
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.27,
+        "feels_like": 38.27,
+        "temp_min": 30.07,
+        "temp_max": 31.58,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.55,
+        "deg": 336,
+        "gust": 2.31
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719807302,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788947,
+        "sunset": 1719833203
+      },
+      "timezone": 28800,
+      "id": 1732905,
+      "name": "Klang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Klebang Besar",
+    "wd": {
+      "coord": {
+        "lon": 102.1995,
+        "lat": 2.2186
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.59,
+        "feels_like": 37.59,
+        "temp_min": 30.59,
+        "temp_max": 30.59,
+        "pressure": 1010,
+        "humidity": 82,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.84,
+        "deg": 297,
+        "gust": 3.39
+      },
+      "clouds": {
+        "all": 92
+      },
+      "dt": 1719807304,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788851,
+        "sunset": 1719832939
+      },
+      "timezone": 28800,
+      "id": 1761242,
+      "name": "Klebang Besar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kluang",
+    "wd": {
+      "coord": {
+        "lon": 103.3328,
+        "lat": 2.0251
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.71,
+        "feels_like": 29.34,
+        "temp_min": 26.71,
+        "temp_max": 26.71,
+        "pressure": 1011,
+        "humidity": 83,
+        "sea_level": 1011,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.58,
+        "deg": 263,
+        "gust": 1.4
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807095,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788599,
+        "sunset": 1719832647
+      },
+      "timezone": 28800,
+      "id": 1732811,
+      "name": "Kluang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kota Belud",
+    "wd": {
+      "coord": {
+        "lon": 116.4305,
+        "lat": 6.351
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.23,
+        "feels_like": 31.28,
+        "temp_min": 27.23,
+        "temp_max": 27.23,
+        "pressure": 1010,
+        "humidity": 89,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.52,
+        "deg": 267,
+        "gust": 2.86
+      },
+      "clouds": {
+        "all": 84
+      },
+      "dt": 1719807172,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785008,
+        "sunset": 1719829950
+      },
+      "timezone": 28800,
+      "id": 1736660,
+      "name": "Kota Belud",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kota Bharu",
+    "wd": {
+      "coord": {
+        "lon": 102.2386,
+        "lat": 6.1333
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.16,
+        "feels_like": 26.03,
+        "temp_min": 25.16,
+        "temp_max": 25.16,
+        "pressure": 1011,
+        "humidity": 88,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.72,
+        "deg": 223,
+        "gust": 1.79
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807300,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788437,
+        "sunset": 1719833334
+      },
+      "timezone": 28800,
+      "id": 1736376,
+      "name": "Kota Bharu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kota Kinabalu",
+    "wd": {
+      "coord": {
+        "lon": 116.0724,
+        "lat": 5.9749
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.99,
+        "feels_like": 36.01,
+        "temp_min": 29.99,
+        "temp_max": 29.99,
+        "pressure": 1010,
+        "humidity": 74,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.09,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807022,
+      "sys": {
+        "type": 1,
+        "id": 9371,
+        "country": "MY",
+        "sunrise": 1719785133,
+        "sunset": 1719829997
+      },
+      "timezone": 28800,
+      "id": 1733432,
+      "name": "Kota Kinabalu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kota Tinggi",
+    "wd": {
+      "coord": {
+        "lon": 103.8999,
+        "lat": 1.7381
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.62,
+        "feels_like": 34.58,
+        "temp_min": 29.52,
+        "temp_max": 30.97,
+        "pressure": 1010,
+        "humidity": 72,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.76,
+        "deg": 250,
+        "gust": 2.33
+      },
+      "clouds": {
+        "all": 83
+      },
+      "dt": 1719807314,
+      "sys": {
+        "type": 2,
+        "id": 2000890,
+        "country": "MY",
+        "sunrise": 1719788492,
+        "sunset": 1719832482
+      },
+      "timezone": 28800,
+      "id": 1732738,
+      "name": "Kota Tinggi",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuah",
+    "wd": {
+      "coord": {
+        "lon": 99.8432,
+        "lat": 6.3265
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.16,
+        "feels_like": 29.79,
+        "temp_min": 27.16,
+        "temp_max": 27.16,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.21,
+        "deg": 92,
+        "gust": 1.64
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807316,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788992,
+        "sunset": 1719833929
+      },
+      "timezone": 28800,
+      "id": 1222396,
+      "name": "Kuah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Besut",
+    "wd": {
+      "coord": {
+        "lon": 102.5561,
+        "lat": 5.8284
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.72,
+        "feels_like": 25.55,
+        "temp_min": 24.72,
+        "temp_max": 24.72,
+        "pressure": 1012,
+        "humidity": 88,
+        "sea_level": 1012,
+        "grnd_level": 1011
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.53,
+        "deg": 248,
+        "gust": 3.11
+      },
+      "rain": {
+        "1h": 0.42
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807319,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788393,
+        "sunset": 1719833226
+      },
+      "timezone": 28800,
+      "id": 1736405,
+      "name": "Kuala Besut",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Kangsar",
+    "wd": {
+      "coord": {
+        "lon": 100.9333,
+        "lat": 4.7667
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.23,
+        "feels_like": 36.15,
+        "temp_min": 31.23,
+        "temp_max": 31.23,
+        "pressure": 1011,
+        "humidity": 63,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.53,
+        "deg": 23,
+        "gust": 2.59
+      },
+      "rain": {
+        "1h": 0.87
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807320,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788892,
+        "sunset": 1719833506
+      },
+      "timezone": 28800,
+      "id": 1734599,
+      "name": "Kuala Kangsar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Kedah",
+    "wd": {
+      "coord": {
+        "lon": 100.3,
+        "lat": 6.1
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.83,
+        "feels_like": 26.71,
+        "temp_min": 25.83,
+        "temp_max": 25.83,
+        "pressure": 1011,
+        "humidity": 86,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.31,
+        "deg": 85,
+        "gust": 4.06
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807322,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788906,
+        "sunset": 1719833796
+      },
+      "timezone": 28800,
+      "id": 1736305,
+      "name": "Kuala Kedah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Lipis",
+    "wd": {
+      "coord": {
+        "lon": 102.0468,
+        "lat": 4.1842
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.88,
+        "feels_like": 26.72,
+        "temp_min": 25.88,
+        "temp_max": 25.88,
+        "pressure": 1012,
+        "humidity": 84,
+        "sea_level": 1012,
+        "grnd_level": 1001
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.75,
+        "deg": 3,
+        "gust": 1.87
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807326,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788685,
+        "sunset": 1719833178
+      },
+      "timezone": 28800,
+      "id": 1733023,
+      "name": "Kuala Lipis",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Lumpur",
+    "wd": {
+      "coord": {
+        "lon": 101.6865,
+        "lat": 3.1431
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.93,
+        "feels_like": 37.93,
+        "temp_min": 29.74,
+        "temp_max": 31.25,
+        "pressure": 1011,
+        "humidity": 83,
+        "sea_level": 1011,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.32,
+        "deg": 293,
+        "gust": 2.15
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719806513,
+      "sys": {
+        "type": 2,
+        "id": 2089667,
+        "country": "MY",
+        "sunrise": 1719788879,
+        "sunset": 1719833157
+      },
+      "timezone": 28800,
+      "id": 1733046,
+      "name": "Kuala Lumpur",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Perlis",
+    "wd": {
+      "coord": {
+        "lon": 100.1333,
+        "lat": 6.4
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.88,
+        "feels_like": 26.8,
+        "temp_min": 25.88,
+        "temp_max": 25.88,
+        "pressure": 1011,
+        "humidity": 87,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 90,
+        "gust": 1.64
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807035,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788915,
+        "sunset": 1719833867
+      },
+      "timezone": 28800,
+      "id": 1736292,
+      "name": "Kuala Perlis",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Pilah",
+    "wd": {
+      "coord": {
+        "lon": 102.2487,
+        "lat": 2.7389
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.66,
+        "feels_like": 37.17,
+        "temp_min": 31.66,
+        "temp_max": 31.66,
+        "pressure": 1011,
+        "humidity": 63,
+        "sea_level": 1011,
+        "grnd_level": 1000
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.21,
+        "deg": 20,
+        "gust": 1.42
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807331,
+      "sys": {
+        "type": 2,
+        "id": 2079042,
+        "country": "MY",
+        "sunrise": 1719788786,
+        "sunset": 1719832981
+      },
+      "timezone": 28800,
+      "id": 1734841,
+      "name": "Kuala Pilah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Selangor",
+    "wd": {
+      "coord": {
+        "lon": 101.25,
+        "lat": 3.35
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.6,
+        "feels_like": 38.59,
+        "temp_min": 30.88,
+        "temp_max": 31.6,
+        "pressure": 1010,
+        "humidity": 68,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.93,
+        "deg": 330,
+        "gust": 1.98
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807333,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788962,
+        "sunset": 1719833283
+      },
+      "timezone": 28800,
+      "id": 1732891,
+      "name": "Kuala Selangor",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Sungai Baru",
+    "wd": {
+      "coord": {
+        "lon": 102.0353,
+        "lat": 2.3594
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.58,
+        "feels_like": 37.58,
+        "temp_min": 30.58,
+        "temp_max": 30.58,
+        "pressure": 1010,
+        "humidity": 76,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.95,
+        "deg": 302,
+        "gust": 3.53
+      },
+      "clouds": {
+        "all": 85
+      },
+      "dt": 1719807037,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788876,
+        "sunset": 1719832993
+      },
+      "timezone": 28800,
+      "id": 1759513,
+      "name": "Kuala Sungai Baru",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuala Terengganu",
+    "wd": {
+      "coord": {
+        "lon": 103.1408,
+        "lat": 5.3302
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 24.15,
+        "feels_like": 24.97,
+        "temp_min": 24.15,
+        "temp_max": 24.15,
+        "pressure": 1011,
+        "humidity": 90,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.86,
+        "deg": 295,
+        "gust": 5.71
+      },
+      "rain": {
+        "1h": 0.32
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807301,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788304,
+        "sunset": 1719833034
+      },
+      "timezone": 28800,
+      "id": 1734705,
+      "name": "Kuala Terengganu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuang",
+    "wd": {
+      "coord": {
+        "lon": 101.5541,
+        "lat": 3.2594
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.26,
+        "feels_like": 38.26,
+        "temp_min": 30.61,
+        "temp_max": 31.33,
+        "pressure": 1011,
+        "humidity": 100,
+        "sea_level": 1011,
+        "grnd_level": 1005
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.56,
+        "deg": 278,
+        "gust": 1.18
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807343,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788899,
+        "sunset": 1719833201
+      },
+      "timezone": 28800,
+      "id": 1759486,
+      "name": "Kuang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kuantan",
+    "wd": {
+      "coord": {
+        "lon": 103.326,
+        "lat": 3.8077
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.78,
+        "feels_like": 29.42,
+        "temp_min": 26.78,
+        "temp_max": 26.78,
+        "pressure": 1011,
+        "humidity": 82,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.13,
+        "deg": 333,
+        "gust": 2.65
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807214,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788417,
+        "sunset": 1719832832
+      },
+      "timezone": 28800,
+      "id": 1735227,
+      "name": "Kuantan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kudat",
+    "wd": {
+      "coord": {
+        "lon": 116.8477,
+        "lat": 6.8837
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.73,
+        "feels_like": 31.71,
+        "temp_min": 27.73,
+        "temp_max": 27.73,
+        "pressure": 1009,
+        "humidity": 82,
+        "sea_level": 1009,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.27,
+        "deg": 278,
+        "gust": 4.95
+      },
+      "clouds": {
+        "all": 75
+      },
+      "dt": 1719807355,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719784852,
+        "sunset": 1719829906
+      },
+      "timezone": 28800,
+      "id": 1736458,
+      "name": "Kudat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kulai",
+    "wd": {
+      "coord": {
+        "lon": 103.6032,
+        "lat": 1.6561
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.92,
+        "feels_like": 36.92,
+        "temp_min": 29.4,
+        "temp_max": 29.94,
+        "pressure": 1010,
+        "humidity": 80,
+        "sea_level": 1010,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.76,
+        "deg": 255,
+        "gust": 2.1
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807357,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788572,
+        "sunset": 1719832544
+      },
+      "timezone": 28800,
+      "id": 1732742,
+      "name": "Kulai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Kulim",
+    "wd": {
+      "coord": {
+        "lon": 100.5618,
+        "lat": 5.365
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.74,
+        "feels_like": 37.74,
+        "temp_min": 30.74,
+        "temp_max": 30.74,
+        "pressure": 1011,
+        "humidity": 83,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.73,
+        "deg": 58,
+        "gust": 2.77
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807360,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788919,
+        "sunset": 1719833657
+      },
+      "timezone": 28800,
+      "id": 1734393,
+      "name": "Kulim",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Labis",
+    "wd": {
+      "coord": {
+        "lon": 103.021,
+        "lat": 2.385
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.47,
+        "feels_like": 32.77,
+        "temp_min": 28.47,
+        "temp_max": 28.47,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1005
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.28,
+        "deg": 294,
+        "gust": 1.92
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807362,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788637,
+        "sunset": 1719832759
+      },
+      "timezone": 28800,
+      "id": 1732877,
+      "name": "Labis",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Labuan",
+    "wd": {
+      "coord": {
+        "lon": 115.2417,
+        "lat": 5.2767
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.33,
+        "feels_like": 26.35,
+        "temp_min": 25.33,
+        "temp_max": 25.33,
+        "pressure": 1010,
+        "humidity": 93,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 2736,
+      "wind": {
+        "speed": 6.69,
+        "deg": 278,
+        "gust": 7.1
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807364,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785405,
+        "sunset": 1719830124
+      },
+      "timezone": 28800,
+      "id": 1733782,
+      "name": "Labuan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Ladang Seri Kundang",
+    "wd": {
+      "coord": {
+        "lon": 101.519,
+        "lat": 3.2856
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.25,
+        "feels_like": 38.25,
+        "temp_min": 30.72,
+        "temp_max": 31.43,
+        "pressure": 1011,
+        "humidity": 100,
+        "sea_level": 1011,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.42,
+        "deg": 263,
+        "gust": 1.03
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807366,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788905,
+        "sunset": 1719833212
+      },
+      "timezone": 28800,
+      "id": 1750974,
+      "name": "Ladang Seri Kundang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Lahad Datu",
+    "wd": {
+      "coord": {
+        "lon": 118.327,
+        "lat": 5.0268
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.64,
+        "feels_like": 32.19,
+        "temp_min": 27.64,
+        "temp_max": 27.64,
+        "pressure": 1009,
+        "humidity": 87,
+        "sea_level": 1009,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.36,
+        "deg": 332,
+        "gust": 2.51
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807368,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719784690,
+        "sunset": 1719829358
+      },
+      "timezone": 28800,
+      "id": 1733953,
+      "name": "Lahad Datu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Lawas",
+    "wd": {
+      "coord": {
+        "lon": 121.0566,
+        "lat": 13.764
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.49,
+        "feels_like": 37.36,
+        "temp_min": 31.49,
+        "temp_max": 31.49,
+        "pressure": 1008,
+        "humidity": 65,
+        "sea_level": 1008,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.6,
+        "deg": 142,
+        "gust": 5
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807372,
+      "sys": {
+        "country": "PH",
+        "sunrise": 1719783105,
+        "sunset": 1719829633
+      },
+      "timezone": 28800,
+      "id": 1726279,
+      "name": "Lawas",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Limbang",
+    "wd": {
+      "coord": {
+        "lon": 115,
+        "lat": 4.75
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.06,
+        "feels_like": 36.06,
+        "temp_min": 29.06,
+        "temp_max": 29.06,
+        "pressure": 1011,
+        "humidity": 98,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.09,
+        "deg": 231,
+        "gust": 3.22
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807376,
+      "sys": {
+        "type": 1,
+        "id": 9377,
+        "country": "MY",
+        "sunrise": 1719785517,
+        "sunset": 1719830128
+      },
+      "timezone": 28800,
+      "id": 1737714,
+      "name": "Limbang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Lumut",
+    "wd": {
+      "coord": {
+        "lon": 100.6298,
+        "lat": 4.2323
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.36,
+        "feels_like": 32.93,
+        "temp_min": 29.36,
+        "temp_max": 29.36,
+        "pressure": 1010,
+        "humidity": 67,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.96,
+        "deg": 7,
+        "gust": 2.85
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719807166,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719789020,
+        "sunset": 1719833523
+      },
+      "timezone": 28800,
+      "id": 1735450,
+      "name": "Lumut",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Malacca",
+    "wd": {
+      "coord": {
+        "lon": 102.2405,
+        "lat": 2.196
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.58,
+        "feels_like": 37.58,
+        "temp_min": 30.58,
+        "temp_max": 30.58,
+        "pressure": 1010,
+        "humidity": 82,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.68,
+        "deg": 293,
+        "gust": 3.24
+      },
+      "clouds": {
+        "all": 94
+      },
+      "dt": 1719807347,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788843,
+        "sunset": 1719832927
+      },
+      "timezone": 28800,
+      "id": 1734759,
+      "name": "Malacca",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Marang",
+    "wd": {
+      "coord": {
+        "lon": 103.2059,
+        "lat": 5.2056
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 23.91,
+        "feels_like": 24.71,
+        "temp_min": 23.91,
+        "temp_max": 23.91,
+        "pressure": 1011,
+        "humidity": 90,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4,
+        "deg": 303,
+        "gust": 6.12
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807385,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788301,
+        "sunset": 1719833006
+      },
+      "timezone": 28800,
+      "id": 1734715,
+      "name": "Marang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Mentekab",
+    "wd": {
+      "coord": {
+        "lon": 102.3484,
+        "lat": 3.4854
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.75,
+        "feels_like": 33.12,
+        "temp_min": 27.75,
+        "temp_max": 27.75,
+        "pressure": 1011,
+        "humidity": 91,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.89,
+        "deg": 224,
+        "gust": 0.89
+      },
+      "clouds": {
+        "all": 96
+      },
+      "dt": 1719807362,
+      "sys": {
+        "type": 2,
+        "id": 2078560,
+        "country": "MY",
+        "sunrise": 1719788685,
+        "sunset": 1719833034
+      },
+      "timezone": 28800,
+      "id": 1735018,
+      "name": "Mentekab",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Mersing",
+    "wd": {
+      "coord": {
+        "lon": 103.8405,
+        "lat": 2.4312
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.32,
+        "feels_like": 33.64,
+        "temp_min": 29.32,
+        "temp_max": 29.32,
+        "pressure": 1010,
+        "humidity": 71,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.57,
+        "deg": 296,
+        "gust": 2.02
+      },
+      "clouds": {
+        "all": 94
+      },
+      "dt": 1719807391,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788435,
+        "sunset": 1719832567
+      },
+      "timezone": 28800,
+      "id": 1732826,
+      "name": "Mersing",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Miri",
+    "wd": {
+      "coord": {
+        "lon": 114.0089,
+        "lat": 4.4148
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.14,
+        "feels_like": 26.01,
+        "temp_min": 25.14,
+        "temp_max": 25.14,
+        "pressure": 1011,
+        "humidity": 88,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.83,
+        "deg": 36,
+        "gust": 1.11
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807393,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719785790,
+        "sunset": 1719830331
+      },
+      "timezone": 28800,
+      "id": 1738050,
+      "name": "Marabu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Muar",
+    "wd": {
+      "coord": {
+        "lon": 102.5689,
+        "lat": 2.0442
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.58,
+        "feels_like": 37.58,
+        "temp_min": 30.58,
+        "temp_max": 30.58,
+        "pressure": 1010,
+        "humidity": 77,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.01,
+        "deg": 258,
+        "gust": 2.52
+      },
+      "clouds": {
+        "all": 86
+      },
+      "dt": 1719807364,
+      "sys": {
+        "type": 2,
+        "id": 2078559,
+        "country": "MY",
+        "sunrise": 1719788780,
+        "sunset": 1719832832
+      },
+      "timezone": 28800,
+      "id": 1732869,
+      "name": "Muar town",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Nibong Tebal",
+    "wd": {
+      "coord": {
+        "lon": 100.4779,
+        "lat": 5.1659
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.99,
+        "feels_like": 37.99,
+        "temp_min": 30.99,
+        "temp_max": 30.99,
+        "pressure": 1010,
+        "humidity": 81,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.4,
+        "deg": 72,
+        "gust": 2.14
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807374,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788960,
+        "sunset": 1719833656
+      },
+      "timezone": 28800,
+      "id": 1735086,
+      "name": "Nibong Tebal",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Paka",
+    "wd": {
+      "coord": {
+        "lon": 103.4368,
+        "lat": 4.6374
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.96,
+        "feels_like": 35.27,
+        "temp_min": 30.96,
+        "temp_max": 30.96,
+        "pressure": 1011,
+        "humidity": 62,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.03,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807410,
+      "sys": {
+        "type": 1,
+        "id": 9433,
+        "country": "MY",
+        "sunrise": 1719788305,
+        "sunset": 1719832891
+      },
+      "timezone": 28800,
+      "id": 1734313,
+      "name": "Paka",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pantai Remis",
+    "wd": {
+      "coord": {
+        "lon": 100.6288,
+        "lat": 4.4557
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.01,
+        "feels_like": 36.18,
+        "temp_min": 31.01,
+        "temp_max": 31.01,
+        "pressure": 1010,
+        "humidity": 65,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.57,
+        "deg": 9,
+        "gust": 2.37
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807416,
+      "sys": {
+        "type": 1,
+        "id": 9426,
+        "country": "MY",
+        "sunrise": 1719788997,
+        "sunset": 1719833547
+      },
+      "timezone": 28800,
+      "id": 1752256,
+      "name": "Pantai Remis",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Papar",
+    "wd": {
+      "coord": {
+        "lon": 115.9333,
+        "lat": 5.7333
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30,
+        "feels_like": 37,
+        "temp_min": 30,
+        "temp_max": 30,
+        "pressure": 1010,
+        "humidity": 90,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 8490,
+      "wind": {
+        "speed": 2.81,
+        "deg": 239,
+        "gust": 3.51
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807418,
+      "sys": {
+        "type": 1,
+        "id": 9371,
+        "country": "MY",
+        "sunrise": 1719785191,
+        "sunset": 1719830006
+      },
+      "timezone": 28800,
+      "id": 1733353,
+      "name": "Papar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Parit Buntar",
+    "wd": {
+      "coord": {
+        "lon": 100.4932,
+        "lat": 5.1267
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.99,
+        "feels_like": 37.99,
+        "temp_min": 30.99,
+        "temp_max": 32.01,
+        "pressure": 1010,
+        "humidity": 82,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.29,
+        "deg": 75,
+        "gust": 2.18
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807420,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788961,
+        "sunset": 1719833649
+      },
+      "timezone": 28800,
+      "id": 1735089,
+      "name": "Parit Buntar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Parit Raja",
+    "wd": {
+      "coord": {
+        "lon": 103.1124,
+        "lat": 1.8681
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.93,
+        "feels_like": 31.48,
+        "temp_min": 27.93,
+        "temp_max": 27.93,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.77,
+        "deg": 248,
+        "gust": 1.57
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719807422,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788668,
+        "sunset": 1719832684
+      },
+      "timezone": 28800,
+      "id": 1732698,
+      "name": "Parit Raja",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pasir Mas",
+    "wd": {
+      "coord": {
+        "lon": 102.1399,
+        "lat": 6.0493
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.94,
+        "feels_like": 30.27,
+        "temp_min": 26.94,
+        "temp_max": 26.94,
+        "pressure": 1012,
+        "humidity": 87,
+        "sea_level": 1012,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.03,
+        "deg": 205,
+        "gust": 1.51
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807425,
+      "sys": {
+        "type": 1,
+        "id": 9431,
+        "country": "MY",
+        "sunrise": 1719788469,
+        "sunset": 1719833349
+      },
+      "timezone": 28800,
+      "id": 1736372,
+      "name": "Pasir Mas",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pekan",
+    "wd": {
+      "coord": {
+        "lon": 103.3996,
+        "lat": 3.4836
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.34,
+        "feels_like": 30.74,
+        "temp_min": 27.34,
+        "temp_max": 27.34,
+        "pressure": 1010,
+        "humidity": 82,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.56,
+        "deg": 2,
+        "gust": 3.38
+      },
+      "rain": {
+        "1h": 0.38
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807384,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788433,
+        "sunset": 1719832781
+      },
+      "timezone": 28800,
+      "id": 1734971,
+      "name": "Pekan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pekan Nenas",
+    "wd": {
+      "coord": {
+        "lon": 103.5141,
+        "lat": 1.51
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.03,
+        "feels_like": 35.36,
+        "temp_min": 29.97,
+        "temp_max": 31.99,
+        "pressure": 1010,
+        "humidity": 71,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.57,
+        "deg": 262,
+        "gust": 2.05
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807395,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788608,
+        "sunset": 1719832551
+      },
+      "timezone": 28800,
+      "id": 1732706,
+      "name": "Pekan Nenas",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pelabuhan Klang",
+    "wd": {
+      "coord": {
+        "lon": 101.4,
+        "lat": 3
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.59,
+        "feels_like": 38.59,
+        "temp_min": 30.1,
+        "temp_max": 31.6,
+        "pressure": 1011,
+        "humidity": 79,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.8,
+        "deg": 345,
+        "gust": 2.48
+      },
+      "clouds": {
+        "all": 94
+      },
+      "dt": 1719807363,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788962,
+        "sunset": 1719833211
+      },
+      "timezone": 28800,
+      "id": 1734769,
+      "name": "Port Klang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Perai",
+    "wd": {
+      "coord": {
+        "lon": 100.3833,
+        "lat": 5.3833
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 32,
+        "feels_like": 36.48,
+        "temp_min": 30.99,
+        "temp_max": 32,
+        "pressure": 1010,
+        "humidity": 58,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 9000,
+      "wind": {
+        "speed": 2.06,
+        "deg": 130
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807434,
+      "sys": {
+        "type": 1,
+        "id": 9429,
+        "country": "MY",
+        "sunrise": 1719788960,
+        "sunset": 1719833702
+      },
+      "timezone": 28800,
+      "id": 1735077,
+      "name": "Perai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Peringat",
+    "wd": {
+      "coord": {
+        "lon": 102.2833,
+        "lat": 6.0333
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.97,
+        "feels_like": 30.55,
+        "temp_min": 26.97,
+        "temp_max": 26.97,
+        "pressure": 1011,
+        "humidity": 89,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.03,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807436,
+      "sys": {
+        "type": 1,
+        "id": 9431,
+        "country": "MY",
+        "sunrise": 1719788437,
+        "sunset": 1719833313
+      },
+      "timezone": 28800,
+      "id": 1750582,
+      "name": "Peringat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Permatang Kuching",
+    "wd": {
+      "coord": {
+        "lon": 100.3814,
+        "lat": 5.4634
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.97,
+        "feels_like": 36.42,
+        "temp_min": 30.96,
+        "temp_max": 31.97,
+        "pressure": 1010,
+        "humidity": 58,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 9000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807438,
+      "sys": {
+        "type": 1,
+        "id": 9429,
+        "country": "MY",
+        "sunrise": 1719788952,
+        "sunset": 1719833710
+      },
+      "timezone": 28800,
+      "id": 1750500,
+      "name": "Permatang Kuching",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Petaling Jaya",
+    "wd": {
+      "coord": {
+        "lon": 101.6067,
+        "lat": 3.1073
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.8,
+        "feels_like": 37.8,
+        "temp_min": 29.84,
+        "temp_max": 30.8,
+        "pressure": 1011,
+        "humidity": 85,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.24,
+        "deg": 304,
+        "gust": 2.08
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719807059,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788902,
+        "sunset": 1719833173
+      },
+      "timezone": 28800,
+      "id": 1735158,
+      "name": "Petaling Jaya",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pontian Kechil",
+    "wd": {
+      "coord": {
+        "lon": 103.3896,
+        "lat": 1.4866
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.1,
+        "feels_like": 36.57,
+        "temp_min": 30.1,
+        "temp_max": 30.1,
+        "pressure": 1010,
+        "humidity": 75,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.6,
+        "deg": 264,
+        "gust": 2.03
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807355,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788640,
+        "sunset": 1719832578
+      },
+      "timezone": 28800,
+      "id": 1732711,
+      "name": "Pontian Kechil",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Port Dickson",
+    "wd": {
+      "coord": {
+        "lon": 101.7959,
+        "lat": 2.5228
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.12,
+        "feels_like": 36.63,
+        "temp_min": 30.12,
+        "temp_max": 30.12,
+        "pressure": 1011,
+        "humidity": 75,
+        "sea_level": 1011,
+        "grnd_level": 1011
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.11,
+        "deg": 310,
+        "gust": 3.67
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807301,
+      "sys": {
+        "type": 1,
+        "id": 9427,
+        "country": "MY",
+        "sunrise": 1719788917,
+        "sunset": 1719833067
+      },
+      "timezone": 28800,
+      "id": 1734815,
+      "name": "Port Dickson",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Pulau Sebang",
+    "wd": {
+      "coord": {
+        "lon": 102.2329,
+        "lat": 2.455
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.95,
+        "feels_like": 36.95,
+        "temp_min": 29.79,
+        "temp_max": 31.99,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.94,
+        "deg": 281,
+        "gust": 1.8
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807447,
+      "sys": {
+        "type": 1,
+        "id": 9437,
+        "country": "MY",
+        "sunrise": 1719788819,
+        "sunset": 1719832955
+      },
+      "timezone": 28800,
+      "id": 1749659,
+      "name": "Pulau Sebang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Putatan",
+    "wd": {
+      "coord": {
+        "lon": 116.0609,
+        "lat": 5.9258
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.01,
+        "feels_like": 37.01,
+        "temp_min": 30.01,
+        "temp_max": 30.01,
+        "pressure": 1010,
+        "humidity": 79,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2.57,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807449,
+      "sys": {
+        "type": 1,
+        "id": 9371,
+        "country": "MY",
+        "sunrise": 1719785141,
+        "sunset": 1719829995
+      },
+      "timezone": 28800,
+      "id": 1733440,
+      "name": "Putatan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Putra Heights",
+    "wd": {
+      "coord": {
+        "lon": 101.5671,
+        "lat": 2.9957
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.87,
+        "feels_like": 35.07,
+        "temp_min": 29.99,
+        "temp_max": 31.49,
+        "pressure": 1011,
+        "humidity": 62,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.51,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807451,
+      "sys": {
+        "type": 1,
+        "id": 9446,
+        "country": "MY",
+        "sunrise": 1719788923,
+        "sunset": 1719833171
+      },
+      "timezone": 28800,
+      "id": 1732905,
+      "name": "Putra Heights",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Putrajaya",
+    "wd": {
+      "coord": {
+        "lon": 101.6911,
+        "lat": 2.9353
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.17,
+        "feels_like": 35.46,
+        "temp_min": 29.92,
+        "temp_max": 30.88,
+        "pressure": 1011,
+        "humidity": 70,
+        "sea_level": 1011,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.79,
+        "deg": 303,
+        "gust": 2.76
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807195,
+      "sys": {
+        "type": 2,
+        "id": 131486,
+        "country": "MY",
+        "sunrise": 1719788899,
+        "sunset": 1719833135
+      },
+      "timezone": 28800,
+      "id": 6697380,
+      "name": "Putrajaya",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Ranau",
+    "wd": {
+      "coord": {
+        "lon": 116.6641,
+        "lat": 5.9538
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.92,
+        "feels_like": 29.56,
+        "temp_min": 26.92,
+        "temp_max": 26.92,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 948
+      },
+      "visibility": 9723,
+      "wind": {
+        "speed": 0.52,
+        "deg": 31,
+        "gust": 0.83
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807456,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719784993,
+        "sunset": 1719829853
+      },
+      "timezone": 28800,
+      "id": 1733502,
+      "name": "Ranau",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Raub",
+    "wd": {
+      "coord": {
+        "lon": 101.857,
+        "lat": 3.7899
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.84,
+        "feels_like": 36.84,
+        "temp_min": 29.84,
+        "temp_max": 29.84,
+        "pressure": 1012,
+        "humidity": 84,
+        "sea_level": 1012,
+        "grnd_level": 993
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.99,
+        "deg": 38,
+        "gust": 1.92
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807458,
+      "sys": {
+        "type": 2,
+        "id": 2085368,
+        "country": "MY",
+        "sunrise": 1719788771,
+        "sunset": 1719833183
+      },
+      "timezone": 28800,
+      "id": 1732663,
+      "name": "Raub",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Rawang",
+    "wd": {
+      "coord": {
+        "lon": 101.5767,
+        "lat": 3.3213
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.07,
+        "feels_like": 38.07,
+        "temp_min": 30.68,
+        "temp_max": 31.4,
+        "pressure": 1011,
+        "humidity": 82,
+        "sea_level": 1011,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.44,
+        "deg": 274,
+        "gust": 1.26
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807460,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788887,
+        "sunset": 1719833202
+      },
+      "timezone": 28800,
+      "id": 1735150,
+      "name": "Rawang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sandakan",
+    "wd": {
+      "coord": {
+        "lon": 118.1179,
+        "lat": 5.8402
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.82,
+        "feels_like": 37.12,
+        "temp_min": 30.82,
+        "temp_max": 30.82,
+        "pressure": 1009,
+        "humidity": 70,
+        "sea_level": 1009,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.63,
+        "deg": 40
+      },
+      "clouds": {
+        "all": 40
+      },
+      "dt": 1719807462,
+      "sys": {
+        "type": 1,
+        "id": 9374,
+        "country": "MY",
+        "sunrise": 1719784656,
+        "sunset": 1719829492
+      },
+      "timezone": 28800,
+      "id": 1734052,
+      "name": "Sandakan",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sarikei",
+    "wd": {
+      "coord": {
+        "lon": 111.5167,
+        "lat": 2.1167
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.83,
+        "feels_like": 26.87,
+        "temp_min": 25.83,
+        "temp_max": 25.83,
+        "pressure": 1011,
+        "humidity": 92,
+        "sea_level": 1011,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.35,
+        "deg": 75,
+        "gust": 3.18
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807464,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719786625,
+        "sunset": 1719830692
+      },
+      "timezone": 28800,
+      "id": 1735837,
+      "name": "Sarikei",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Segamat",
+    "wd": {
+      "coord": {
+        "lon": 102.8158,
+        "lat": 2.5148
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.71,
+        "feels_like": 33.17,
+        "temp_min": 28.71,
+        "temp_max": 28.71,
+        "pressure": 1011,
+        "humidity": 76,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.39,
+        "deg": 314,
+        "gust": 1.83
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807468,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788673,
+        "sunset": 1719832822
+      },
+      "timezone": 28800,
+      "id": 1732846,
+      "name": "Segamat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Semenyih",
+    "wd": {
+      "coord": {
+        "lon": 101.843,
+        "lat": 2.9516
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.36,
+        "feels_like": 34.92,
+        "temp_min": 29.86,
+        "temp_max": 31.37,
+        "pressure": 1011,
+        "humidity": 66,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.52,
+        "deg": 287,
+        "gust": 2.41
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807351,
+      "sys": {
+        "type": 2,
+        "id": 2089667,
+        "country": "MY",
+        "sunrise": 1719788861,
+        "sunset": 1719833100
+      },
+      "timezone": 28800,
+      "id": 1734798,
+      "name": "Semenyih",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Semporna",
+    "wd": {
+      "coord": {
+        "lon": 118.6112,
+        "lat": 4.4818
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.44,
+        "feels_like": 31.24,
+        "temp_min": 27.44,
+        "temp_max": 27.44,
+        "pressure": 1009,
+        "humidity": 84,
+        "sea_level": 1009,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.88,
+        "deg": 332,
+        "gust": 2.06
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807474,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719784678,
+        "sunset": 1719829233
+      },
+      "timezone": 28800,
+      "id": 1733697,
+      "name": "Semporna",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Seremban",
+    "wd": {
+      "coord": {
+        "lon": 101.9381,
+        "lat": 2.7297
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.73,
+        "feels_like": 33.1,
+        "temp_min": 29.73,
+        "temp_max": 30.69,
+        "pressure": 1011,
+        "humidity": 64,
+        "sea_level": 1011,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.89,
+        "deg": 301,
+        "gust": 2.64
+      },
+      "clouds": {
+        "all": 86
+      },
+      "dt": 1719806885,
+      "sys": {
+        "type": 2,
+        "id": 131486,
+        "country": "MY",
+        "sunrise": 1719788861,
+        "sunset": 1719833054
+      },
+      "timezone": 28800,
+      "id": 1734810,
+      "name": "Seremban",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Serendah",
+    "wd": {
+      "coord": {
+        "lon": 101.6041,
+        "lat": 3.3646
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.9,
+        "feels_like": 37.9,
+        "temp_min": 30.66,
+        "temp_max": 31.38,
+        "pressure": 1011,
+        "humidity": 77,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.31,
+        "deg": 280,
+        "gust": 1.32
+      },
+      "clouds": {
+        "all": 98
+      },
+      "dt": 1719807477,
+      "sys": {
+        "type": 2,
+        "id": 2085368,
+        "country": "MY",
+        "sunrise": 1719788876,
+        "sunset": 1719833200
+      },
+      "timezone": 28800,
+      "id": 1735148,
+      "name": "Serendah",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Shah Alam",
+    "wd": {
+      "coord": {
+        "lon": 101.5328,
+        "lat": 3.0851
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.79,
+        "feels_like": 37.79,
+        "temp_min": 29.83,
+        "temp_max": 30.79,
+        "pressure": 1011,
+        "humidity": 100,
+        "sea_level": 1011,
+        "grnd_level": 1005
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.23,
+        "deg": 318,
+        "gust": 2.04
+      },
+      "clouds": {
+        "all": 93
+      },
+      "dt": 1719807048,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788922,
+        "sunset": 1719833188
+      },
+      "timezone": 28800,
+      "id": 1732903,
+      "name": "Shah Alam",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sibu",
+    "wd": {
+      "coord": {
+        "lon": 111.8167,
+        "lat": 2.3
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 25.83,
+        "feels_like": 26.9,
+        "temp_min": 25.83,
+        "temp_max": 25.83,
+        "pressure": 1011,
+        "humidity": 93,
+        "sea_level": 1011,
+        "grnd_level": 1011
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.13,
+        "deg": 56,
+        "gust": 2.41
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807300,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719786534,
+        "sunset": 1719830639
+      },
+      "timezone": 28800,
+      "id": 1735902,
+      "name": "Sibu",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Simanggang",
+    "wd": {
+      "coord": {
+        "lon": 111.4528,
+        "lat": 1.2472
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.99,
+        "feels_like": 36.99,
+        "temp_min": 29.99,
+        "temp_max": 29.99,
+        "pressure": 1011,
+        "humidity": 79,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 40
+      },
+      "dt": 1719807483,
+      "sys": {
+        "type": 1,
+        "id": 9370,
+        "country": "MY",
+        "sunrise": 1719786730,
+        "sunset": 1719830618
+      },
+      "timezone": 28800,
+      "id": 1735799,
+      "name": "Simanggang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Simpang Empat",
+    "wd": {
+      "coord": {
+        "lon": 100.6333,
+        "lat": 4.95
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 28.76,
+        "feels_like": 32.38,
+        "temp_min": 28.76,
+        "temp_max": 28.76,
+        "pressure": 1010,
+        "humidity": 71,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.22,
+        "deg": 76,
+        "gust": 2.24
+      },
+      "rain": {
+        "1h": 0.13
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807485,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788945,
+        "sunset": 1719833597
+      },
+      "timezone": 28800,
+      "id": 1734576,
+      "name": "Simpang Empat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Skudai",
+    "wd": {
+      "coord": {
+        "lon": 103.6667,
+        "lat": 1.5333
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.07,
+        "feels_like": 37.07,
+        "temp_min": 29.55,
+        "temp_max": 30.99,
+        "pressure": 1010,
+        "humidity": 80,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.94,
+        "deg": 252,
+        "gust": 2.31
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719806959,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788569,
+        "sunset": 1719832517
+      },
+      "timezone": 28800,
+      "id": 1732745,
+      "name": "Skudai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Subang Jaya",
+    "wd": {
+      "coord": {
+        "lon": 101.5855,
+        "lat": 3.0568
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.87,
+        "feels_like": 37.87,
+        "temp_min": 29.96,
+        "temp_max": 30.92,
+        "pressure": 1011,
+        "humidity": 100,
+        "sea_level": 1011,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.4,
+        "deg": 311,
+        "gust": 2.28
+      },
+      "clouds": {
+        "all": 92
+      },
+      "dt": 1719807287,
+      "sys": {
+        "type": 2,
+        "id": 65454,
+        "country": "MY",
+        "sunrise": 1719788912,
+        "sunset": 1719833173
+      },
+      "timezone": 28800,
+      "id": 1733046,
+      "name": "Subang Jaya",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sungai Besar",
+    "wd": {
+      "coord": {
+        "lon": 100.9867,
+        "lat": 3.6746
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.04,
+        "feels_like": 32.81,
+        "temp_min": 29.04,
+        "temp_max": 29.04,
+        "pressure": 1010,
+        "humidity": 70,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.17,
+        "deg": 345,
+        "gust": 1.96
+      },
+      "clouds": {
+        "all": 90
+      },
+      "dt": 1719807362,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788992,
+        "sunset": 1719833380
+      },
+      "timezone": 28800,
+      "id": 1735199,
+      "name": "Sungai Besar",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sungai Pelek New Village",
+    "wd": {
+      "coord": {
+        "lon": 101.7,
+        "lat": 2.65
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.05,
+        "feels_like": 36.17,
+        "temp_min": 30.05,
+        "temp_max": 30.05,
+        "pressure": 1010,
+        "humidity": 74,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807493,
+      "sys": {
+        "type": 1,
+        "id": 9427,
+        "country": "MY",
+        "sunrise": 1719788926,
+        "sunset": 1719833103
+      },
+      "timezone": 28800,
+      "id": 1742667,
+      "name": "Sungai Pelek New Village",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sungai Petani",
+    "wd": {
+      "coord": {
+        "lon": 100.4877,
+        "lat": 5.647
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.94,
+        "feels_like": 38.94,
+        "temp_min": 30.93,
+        "temp_max": 31.94,
+        "pressure": 1011,
+        "humidity": 89,
+        "sea_level": 1011,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.87,
+        "deg": 57,
+        "gust": 3.46
+      },
+      "clouds": {
+        "all": 100
+      },
+      "dt": 1719807488,
+      "sys": {
+        "type": 1,
+        "id": 9429,
+        "country": "MY",
+        "sunrise": 1719788908,
+        "sunset": 1719833704
+      },
+      "timezone": 28800,
+      "id": 1735498,
+      "name": "Sungai Petani",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Sungai Udang",
+    "wd": {
+      "coord": {
+        "lon": 102.1427,
+        "lat": 2.269
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.93,
+        "feels_like": 35.85,
+        "temp_min": 29.93,
+        "temp_max": 30.49,
+        "pressure": 1010,
+        "humidity": 74,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.03,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807497,
+      "sys": {
+        "type": 1,
+        "id": 9437,
+        "country": "MY",
+        "sunrise": 1719788859,
+        "sunset": 1719832958
+      },
+      "timezone": 28800,
+      "id": 1734757,
+      "name": "Sungai Udang",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Taiping",
+    "wd": {
+      "coord": {
+        "lon": 100.7333,
+        "lat": 4.85
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.38,
+        "feels_like": 36.5,
+        "temp_min": 31.38,
+        "temp_max": 31.38,
+        "pressure": 1010,
+        "humidity": 63,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.22,
+        "deg": 61,
+        "gust": 2.08
+      },
+      "rain": {
+        "1h": 0.11
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807382,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788932,
+        "sunset": 1719833562
+      },
+      "timezone": 28800,
+      "id": 1734586,
+      "name": "Taiping",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Taman Senai",
+    "wd": {
+      "coord": {
+        "lon": 103.6419,
+        "lat": 1.6006
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.91,
+        "feels_like": 36.91,
+        "temp_min": 29.44,
+        "temp_max": 30.88,
+        "pressure": 1010,
+        "humidity": 80,
+        "sea_level": 1010,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.82,
+        "deg": 254,
+        "gust": 2.19
+      },
+      "clouds": {
+        "all": 91
+      },
+      "dt": 1719807354,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788568,
+        "sunset": 1719832529
+      },
+      "timezone": 28800,
+      "id": 1732741,
+      "name": "Taman Senai",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tampin",
+    "wd": {
+      "coord": {
+        "lon": 102.2302,
+        "lat": 2.4701
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.81,
+        "feels_like": 36.81,
+        "temp_min": 29.68,
+        "temp_max": 32.43,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 1004
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.83,
+        "deg": 278,
+        "gust": 1.7
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807504,
+      "sys": {
+        "type": 1,
+        "id": 9437,
+        "country": "MY",
+        "sunrise": 1719788818,
+        "sunset": 1719832958
+      },
+      "timezone": 28800,
+      "id": 1734738,
+      "name": "Tampin",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tanah Rata",
+    "wd": {
+      "coord": {
+        "lon": 101.3704,
+        "lat": 4.475
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 22.04,
+        "feels_like": 22.28,
+        "temp_min": 22.04,
+        "temp_max": 22.04,
+        "pressure": 1012,
+        "humidity": 76,
+        "sea_level": 1012,
+        "grnd_level": 856
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.49,
+        "deg": 10,
+        "gust": 1.22
+      },
+      "rain": {
+        "1h": 0.3
+      },
+      "clouds": {
+        "all": 96
+      },
+      "dt": 1719807361,
+      "sys": {
+        "type": 2,
+        "id": 202761,
+        "country": "MY",
+        "sunrise": 1719788817,
+        "sunset": 1719833371
+      },
+      "timezone": 28800,
+      "id": 1735262,
+      "name": "Tanah Rata",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tangkak",
+    "wd": {
+      "coord": {
+        "lon": 102.5453,
+        "lat": 2.2673
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.93,
+        "feels_like": 36.11,
+        "temp_min": 29.93,
+        "temp_max": 30.49,
+        "pressure": 1010,
+        "humidity": 75,
+        "sea_level": 1010,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.2,
+        "deg": 263,
+        "gust": 2.07
+      },
+      "clouds": {
+        "all": 97
+      },
+      "dt": 1719807508,
+      "sys": {
+        "type": 1,
+        "id": 9437,
+        "country": "MY",
+        "sunrise": 1719788763,
+        "sunset": 1719832861
+      },
+      "timezone": 28800,
+      "id": 1732857,
+      "name": "Tangkak",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tanjung Sepat",
+    "wd": {
+      "coord": {
+        "lon": 101.5629,
+        "lat": 2.6579
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.08,
+        "feels_like": 36.25,
+        "temp_min": 30.08,
+        "temp_max": 30.08,
+        "pressure": 1010,
+        "humidity": 74,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807406,
+      "sys": {
+        "type": 1,
+        "id": 9427,
+        "country": "MY",
+        "sunrise": 1719788959,
+        "sunset": 1719833137
+      },
+      "timezone": 28800,
+      "id": 1741562,
+      "name": "Tanjung Sepat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tanjung Tokong",
+    "wd": {
+      "coord": {
+        "lon": 100.3074,
+        "lat": 5.4606
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.99,
+        "feels_like": 36.41,
+        "temp_min": 30.99,
+        "temp_max": 30.99,
+        "pressure": 1010,
+        "humidity": 66,
+        "sea_level": 1010,
+        "grnd_level": 1010
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 120
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807391,
+      "sys": {
+        "type": 1,
+        "id": 9438,
+        "country": "MY",
+        "sunrise": 1719788970,
+        "sunset": 1719833728
+      },
+      "timezone": 28800,
+      "id": 1741550,
+      "name": "Tanjung Tokong",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tapah Road",
+    "wd": {
+      "coord": {
+        "lon": 101.2,
+        "lat": 4.1667
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 29.99,
+        "feels_like": 33.43,
+        "temp_min": 29.99,
+        "temp_max": 29.99,
+        "pressure": 1010,
+        "humidity": 63,
+        "sea_level": 1010,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.37,
+        "deg": 284,
+        "gust": 1.75
+      },
+      "clouds": {
+        "all": 86
+      },
+      "dt": 1719807516,
+      "sys": {
+        "type": 1,
+        "id": 9434,
+        "country": "MY",
+        "sunrise": 1719788890,
+        "sunset": 1719833380
+      },
+      "timezone": 28800,
+      "id": 1735282,
+      "name": "Tapah Road",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tasek Glugor",
+    "wd": {
+      "coord": {
+        "lon": 100.4985,
+        "lat": 5.4803
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.97,
+        "feels_like": 36.42,
+        "temp_min": 30.96,
+        "temp_max": 31.97,
+        "pressure": 1010,
+        "humidity": 58,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 9000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807519,
+      "sys": {
+        "type": 1,
+        "id": 9429,
+        "country": "MY",
+        "sunrise": 1719788923,
+        "sunset": 1719833684
+      },
+      "timezone": 28800,
+      "id": 1735093,
+      "name": "Tasek Glugor",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tawau",
+    "wd": {
+      "coord": {
+        "lon": 117.8871,
+        "lat": 4.2498
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.07,
+        "feels_like": 38.07,
+        "temp_min": 31.07,
+        "temp_max": 31.07,
+        "pressure": 1009,
+        "humidity": 85,
+        "sea_level": 1009,
+        "grnd_level": 1008
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.65,
+        "deg": 325,
+        "gust": 0.83
+      },
+      "clouds": {
+        "all": 99
+      },
+      "dt": 1719807409,
+      "sys": {
+        "type": 1,
+        "id": 9376,
+        "country": "MY",
+        "sunrise": 1719784876,
+        "sunset": 1719829383
+      },
+      "timezone": 28800,
+      "id": 1734199,
+      "name": "Tawao",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Teluk Intan",
+    "wd": {
+      "coord": {
+        "lon": 101.0213,
+        "lat": 4.0259
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 31.01,
+        "feels_like": 37.63,
+        "temp_min": 31.01,
+        "temp_max": 31.01,
+        "pressure": 1010,
+        "humidity": 70,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.61,
+        "deg": 349,
+        "gust": 2.51
+      },
+      "clouds": {
+        "all": 83
+      },
+      "dt": 1719807524,
+      "sys": {
+        "type": 1,
+        "id": 9426,
+        "country": "MY",
+        "sunrise": 1719788948,
+        "sunset": 1719833408
+      },
+      "timezone": 28800,
+      "id": 1735459,
+      "name": "Teluk Anson",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Temerluh",
+    "wd": {
+      "coord": {
+        "lon": 102.4176,
+        "lat": 3.4506
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.77,
+        "feels_like": 33.19,
+        "temp_min": 27.77,
+        "temp_max": 27.77,
+        "pressure": 1011,
+        "humidity": 91,
+        "sea_level": 1011,
+        "grnd_level": 1006
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.89,
+        "deg": 224,
+        "gust": 0.89
+      },
+      "clouds": {
+        "all": 95
+      },
+      "dt": 1719807365,
+      "sys": {
+        "type": 2,
+        "id": 2078560,
+        "country": "MY",
+        "sunrise": 1719788672,
+        "sunset": 1719833013
+      },
+      "timezone": 28800,
+      "id": 1735022,
+      "name": "Temerluh",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Tumpat",
+    "wd": {
+      "coord": {
+        "lon": 102.171,
+        "lat": 6.1978
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 26.99,
+        "feels_like": 30.6,
+        "temp_min": 26.99,
+        "temp_max": 26.99,
+        "pressure": 1011,
+        "humidity": 89,
+        "sea_level": 1011,
+        "grnd_level": 1011
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.03,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807528,
+      "sys": {
+        "type": 1,
+        "id": 9431,
+        "country": "MY",
+        "sunrise": 1719788446,
+        "sunset": 1719833357
+      },
+      "timezone": 28800,
+      "id": 1736356,
+      "name": "Tumpat",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Ulu Tiram",
+    "wd": {
+      "coord": {
+        "lon": 103.8167,
+        "lat": 1.6
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 30.21,
+        "feels_like": 36.88,
+        "temp_min": 29.9,
+        "temp_max": 31.03,
+        "pressure": 1010,
+        "humidity": 75,
+        "sea_level": 1010,
+        "grnd_level": 1007
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 1.54,
+        "deg": 0
+      },
+      "clouds": {
+        "all": 20
+      },
+      "dt": 1719807530,
+      "sys": {
+        "type": 2,
+        "id": 2078857,
+        "country": "MY",
+        "sunrise": 1719788526,
+        "sunset": 1719832487
+      },
+      "timezone": 28800,
+      "id": 1738294,
+      "name": "Ulu Tiram",
+      "cod": 200
+    }
+  },
+  {
+    "city": "Yong Peng",
+    "wd": {
+      "coord": {
+        "lon": 103.0659,
+        "lat": 2.0136
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 27.72,
+        "feels_like": 31.27,
+        "temp_min": 27.72,
+        "temp_max": 27.72,
+        "pressure": 1010,
+        "humidity": 79,
+        "sea_level": 1010,
+        "grnd_level": 1009
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 0.37,
+        "deg": 269,
+        "gust": 1.5
+      },
+      "clouds": {
+        "all": 89
+      },
+      "dt": 1719807532,
+      "sys": {
+        "country": "MY",
+        "sunrise": 1719788664,
+        "sunset": 1719832710
+      },
+      "timezone": 28800,
+      "id": 1732814,
+      "name": "Yong Peng",
+      "cod": 200
+    }
+  }
+]

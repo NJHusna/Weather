@@ -1,0 +1,8 @@
+# Ignore VSCode configuration directory
+.vscode/
+
+# Ignore Python virtual environment directory
+.venv/
+
+# Ignore environment variables file
+.env

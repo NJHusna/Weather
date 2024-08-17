@@ -1,0 +1,13 @@
+httpx==0.27.0
+python-dotenv==1.0.1
+pandas
+dbt-core
+dbt-postgres
+dagster-dbt==0.23.12
+pip install dagster-dbt
+
+
+dagster-dbt project scaffold --project-name my_dagster_project --dbt-project-dir ./my_dbt_project --use-experimental-dbt-project
+
+
+dagster-dbt project scaffold --weather_dagster weather_dagster_project --dbt-project-dir ./weather-dbt-dagster/weather --use-experimental-dbt-project

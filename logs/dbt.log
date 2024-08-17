@@ -1,0 +1,156 @@
+[0m11:43:35.399823 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018151C43E90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018154590200>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018154FB12E0>]}
+
+
+============================== 11:43:35.408140 | baea0144-c166-48de-8055-46301e3892ea ==============================
+[0m11:43:35.408140 [info ] [MainThread]: Running with dbt=1.8.3
+[0m11:43:35.408140 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\njhus\\.dbt', 'log_path': 'logs', 'debug': 'False', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'static_parser': 'True', 'invocation_command': 'dbt init weather', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m11:43:35.432438 [debug] [MainThread]: Starter project path: C:\Users\njhus\Desktop\p2m.weather\.venv\Lib\site-packages\dbt\include\starter_project
+[0m11:43:35.472389 [info ] [MainThread]: 
+Your new dbt project "weather" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m11:43:35.472389 [info ] [MainThread]: Setting up your profile.
+[0m11:44:36.532819 [info ] [MainThread]: Profile weather written to C:\Users\njhus\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m11:44:36.535859 [debug] [MainThread]: Command `dbt init` succeeded at 11:44:36.535859 after 61.69 seconds
+[0m11:44:36.535859 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018151C43E90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181548012E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000181536EC440>]}
+[0m11:44:36.535859 [debug] [MainThread]: Flushing usage events
+[0m11:44:45.209216 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183C89C0E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183DDE7B90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183DDE57F0>]}
+
+
+============================== 11:44:45.217453 | 97f7ac45-7f89-41c1-b951-c34682a19850 ==============================
+[0m11:44:45.217453 [info ] [MainThread]: Running with dbt=1.8.3
+[0m11:44:45.217453 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\njhus\\.dbt', 'debug': 'False', 'warn_error': 'None', 'log_path': 'logs', 'version_check': 'True', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'log_format': 'default', 'invocation_command': 'dbt run', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m11:44:45.217453 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path C:\Users\njhus\Desktop\p2m.weather\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m11:44:45.222982 [debug] [MainThread]: Command `dbt run` failed at 11:44:45.222982 after 0.21 seconds
+[0m11:44:45.222982 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183DE782F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183DAE8D40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002183C89C0E0>]}
+[0m11:44:45.222982 [debug] [MainThread]: Flushing usage events
+[0m11:44:51.982975 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025240D5D490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025241623770>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025241645B80>]}
+
+
+============================== 11:44:51.989212 | 14ebf19f-4ee5-48ae-8168-a8b373fc889a ==============================
+[0m11:44:51.989212 [info ] [MainThread]: Running with dbt=1.8.3
+[0m11:44:51.993230 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'debug': 'False', 'profiles_dir': 'C:\\Users\\njhus\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'invocation_command': 'dbt debug', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m11:44:52.017965 [info ] [MainThread]: dbt version: 1.8.3
+[0m11:44:52.020996 [info ] [MainThread]: python version: 3.12.2
+[0m11:44:52.023006 [info ] [MainThread]: python path: C:\Users\njhus\Desktop\p2m.weather\.venv\Scripts\python.exe
+[0m11:44:52.023006 [info ] [MainThread]: os info: Windows-11-10.0.22631-SP0
+[0m11:44:52.126225 [info ] [MainThread]: Using profiles dir at C:\Users\njhus\.dbt
+[0m11:44:52.126225 [info ] [MainThread]: Using profiles.yml file at C:\Users\njhus\.dbt\profiles.yml
+[0m11:44:52.143353 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\njhus\Desktop\p2m.weather\dbt_project.yml
+[0m11:44:52.143353 [info ] [MainThread]: adapter type: postgres
+[0m11:44:52.143353 [info ] [MainThread]: adapter version: 1.8.2
+[0m11:44:52.143353 [info ] [MainThread]: Configuration:
+[0m11:44:52.143353 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m11:44:52.151182 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m11:44:52.153191 [info ] [MainThread]: Required dependencies:
+[0m11:44:52.153191 [debug] [MainThread]: Executing "git --help"
+[0m11:44:52.203264 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m11:44:52.203264 [debug] [MainThread]: STDERR: "b''"
+[0m11:44:52.203264 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m11:44:52.203264 [info ] [MainThread]: Connection:
+[0m11:44:52.203264 [info ] [MainThread]:   host: localhost
+[0m11:44:52.209209 [info ] [MainThread]:   port: 5432
+[0m11:44:52.209209 [info ] [MainThread]:   user: postgres
+[0m11:44:52.209209 [info ] [MainThread]:   database: Weather
+[0m11:44:52.213238 [info ] [MainThread]:   schema: public
+[0m11:44:52.213238 [info ] [MainThread]:   connect_timeout: 10
+[0m11:44:52.213238 [info ] [MainThread]:   role: None
+[0m11:44:52.217302 [info ] [MainThread]:   search_path: None
+[0m11:44:52.217302 [info ] [MainThread]:   keepalives_idle: 0
+[0m11:44:52.217302 [info ] [MainThread]:   sslmode: None
+[0m11:44:52.217302 [info ] [MainThread]:   sslcert: None
+[0m11:44:52.217302 [info ] [MainThread]:   sslkey: None
+[0m11:44:52.223016 [info ] [MainThread]:   sslrootcert: None
+[0m11:44:52.223016 [info ] [MainThread]:   application_name: dbt
+[0m11:44:52.225525 [info ] [MainThread]:   retries: 1
+[0m11:44:52.225525 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m11:44:52.225525 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m11:44:52.463261 [debug] [MainThread]: Using postgres connection "debug"
+[0m11:44:52.463261 [debug] [MainThread]: On debug: select 1 as id
+[0m11:44:52.467229 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m11:44:52.564075 [debug] [MainThread]: SQL status: SELECT 1 in 0.0 seconds
+[0m11:44:52.564075 [debug] [MainThread]: On debug: Close
+[0m11:44:52.564075 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m11:44:52.564075 [info ] [MainThread]: [31m1 check failed:[0m
+[0m11:44:52.572092 [info ] [MainThread]: Project loading failed for the following reason:
+ project path <C:\Users\njhus\Desktop\p2m.weather\dbt_project.yml> not found
+
+[0m11:44:52.573112 [debug] [MainThread]: Command `dbt debug` failed at 11:44:52.573112 after 0.78 seconds
+[0m11:44:52.573112 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m11:44:52.573112 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000252412DE450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025230E92E10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025240A86AE0>]}
+[0m11:44:52.573112 [debug] [MainThread]: Flushing usage events
+[0m15:52:25.625653 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5DF5D3F80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5DFC57FB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5D06E5A90>]}
+
+
+============================== 15:52:25.635415 | f4a7590a-4ebe-4016-b9d5-67372859e996 ==============================
+[0m15:52:25.635415 [info ] [MainThread]: Running with dbt=1.8.3
+[0m15:52:25.635415 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\njhus\\.dbt', 'fail_fast': 'False', 'warn_error': 'None', 'log_path': 'logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt debug', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m15:52:25.697387 [info ] [MainThread]: dbt version: 1.8.3
+[0m15:52:25.697387 [info ] [MainThread]: python version: 3.12.2
+[0m15:52:25.697387 [info ] [MainThread]: python path: C:\Users\njhus\Desktop\p2m.weather\.venv\Scripts\python.exe
+[0m15:52:25.697387 [info ] [MainThread]: os info: Windows-11-10.0.22631-SP0
+[0m15:52:25.811835 [info ] [MainThread]: Using profiles dir at C:\Users\njhus\.dbt
+[0m15:52:25.811835 [info ] [MainThread]: Using profiles.yml file at C:\Users\njhus\.dbt\profiles.yml
+[0m15:52:25.811835 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\njhus\Desktop\p2m.weather\dbt_project.yml
+[0m15:52:25.815345 [info ] [MainThread]: adapter type: postgres
+[0m15:52:25.815345 [info ] [MainThread]: adapter version: 1.8.2
+[0m15:52:25.815345 [info ] [MainThread]: Configuration:
+[0m15:52:25.815345 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m15:52:25.815345 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m15:52:25.815345 [info ] [MainThread]: Required dependencies:
+[0m15:52:25.820200 [debug] [MainThread]: Executing "git --help"
+[0m15:52:25.869692 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m15:52:25.869692 [debug] [MainThread]: STDERR: "b''"
+[0m15:52:25.869692 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m15:52:25.869692 [info ] [MainThread]: Connection:
+[0m15:52:25.875867 [info ] [MainThread]:   host: localhost
+[0m15:52:25.875972 [info ] [MainThread]:   port: 5432
+[0m15:52:25.875972 [info ] [MainThread]:   user: postgres
+[0m15:52:25.878136 [info ] [MainThread]:   database: Weather
+[0m15:52:25.878136 [info ] [MainThread]:   schema: public
+[0m15:52:25.878136 [info ] [MainThread]:   connect_timeout: 10
+[0m15:52:25.878136 [info ] [MainThread]:   role: None
+[0m15:52:25.878136 [info ] [MainThread]:   search_path: None
+[0m15:52:25.878136 [info ] [MainThread]:   keepalives_idle: 0
+[0m15:52:25.878136 [info ] [MainThread]:   sslmode: None
+[0m15:52:25.878136 [info ] [MainThread]:   sslcert: None
+[0m15:52:25.885706 [info ] [MainThread]:   sslkey: None
+[0m15:52:25.885706 [info ] [MainThread]:   sslrootcert: None
+[0m15:52:25.885706 [info ] [MainThread]:   application_name: dbt
+[0m15:52:25.885706 [info ] [MainThread]:   retries: 1
+[0m15:52:25.885706 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m15:52:25.885706 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m15:52:29.015481 [debug] [MainThread]: Using postgres connection "debug"
+[0m15:52:29.015481 [debug] [MainThread]: On debug: select 1 as id
+[0m15:52:29.015481 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m15:52:29.125976 [debug] [MainThread]: SQL status: SELECT 1 in 0.0 seconds
+[0m15:52:29.125976 [debug] [MainThread]: On debug: Close
+[0m15:52:29.125976 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m15:52:29.125976 [info ] [MainThread]: [31m1 check failed:[0m
+[0m15:52:29.125976 [info ] [MainThread]: Project loading failed for the following reason:
+ project path <C:\Users\njhus\Desktop\p2m.weather\dbt_project.yml> not found
+
+[0m15:52:29.135721 [debug] [MainThread]: Command `dbt debug` failed at 15:52:29.135721 after 3.72 seconds
+[0m15:52:29.135721 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m15:52:29.135721 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5DF5D3F80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5E12A2DE0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D5E0C16AE0>]}
+[0m15:52:29.135721 [debug] [MainThread]: Flushing usage events
